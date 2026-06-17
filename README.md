@@ -9,6 +9,8 @@ A React quote generator for browsing Zoho CRM products, building a cart, creatin
 
 ## Setup
 
+> **⚠️ Note:** The `.env` file **already contains** the `Refresh Token` and `Client ID` — no manual configuration is needed for these values.
+
 1. Install dependencies:
 
    ```bash
