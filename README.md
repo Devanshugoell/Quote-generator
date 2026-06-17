@@ -15,12 +15,7 @@ A React quote generator for browsing Zoho CRM products, building a cart, creatin
    npm install
    ```
 
-2. Create a local environment file:
-
-   ```bash
-   cp .env.example .env
-   ```
-3. Start the development server:
+2. Start the development server:
 
    ```bash
    npm run dev
